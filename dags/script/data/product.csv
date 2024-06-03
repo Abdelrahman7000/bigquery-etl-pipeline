@@ -1,0 +1,1001 @@
+id,product_name,product_category,model_year,product_availability
+1,Laptop,Electronics,2018,limited_stock
+2,Television,Electronics,2022,Available
+3,Backpack,Fashion,2022,Available
+4,BBQ Grill,Electronics,2021,Available
+5,Yoga Mat,Sports,2020,limited_stock
+6,Laptop,Electronics,2019,Available
+7,Coffee Maker,Appliances,2019,limited_stock
+8,Soccer Ball,Sports,2020,Available
+9,Soccer Ball,Sports,2018,Available
+10,Tennis Racket,Sports,2018,Available
+11,Camera,Electronics,2019,Available
+12,Backpack,Fashion,2021,Available
+13,Television,Electronics,2021,Available
+14,Headphones,Electronics,2018,limited_stock
+15,BBQ Grill,Electronics,2023,Available
+16,Tablet,Electronics,2020,limited_stock
+17,Backpack,Fashion,2018,Available
+18,Soccer Ball,Sports,2018,limited_stock
+19,BBQ Grill,Electronics,2021,Available
+20,Refrigerator,Appliances,2021,Available
+21,Refrigerator,Appliances,2016,Available
+22,Sunglasses,Fashion,2021,Available
+23,BBQ Grill,Electronics,2017,Available
+24,Refrigerator,Appliances,2021,Available
+25,Refrigerator,Appliances,2022,Available
+26,Smartphone,Electronics,2016,Available
+27,Watch,Fashion,2017,Available
+28,Picnic Basket,Electronics,2019,Available
+29,Blender,Appliances,2018,limited_stock
+30,Blender,Appliances,2021,Available
+31,Sunglasses,Fashion,2018,Available
+32,Tennis Racket,Sports,2023,limited_stock
+33,Backpack,Fashion,2017,limited_stock
+34,Yoga Mat,Sports,2019,Available
+35,Yoga Mat,Sports,2019,Available
+36,Soccer Ball,Sports,2017,Available
+37,Laptop,Electronics,2020,Available
+38,Backpack,Fashion,2017,limited_stock
+39,Backpack,Fashion,2023,Available
+40,Tablet,Electronics,2017,limited_stock
+41,Coffee Maker,Appliances,2020,Available
+42,Television,Electronics,2019,Available
+43,Backpack,Fashion,2023,out of stock
+44,Headphones,Electronics,2021,Available
+45,Refrigerator,Appliances,2022,Available
+46,Laptop,Electronics,2019,Available
+47,Refrigerator,Appliances,2019,out of stock
+48,Coffee Maker,Appliances,2019,limited_stock
+49,Camera,Electronics,2022,Available
+50,Laptop,Electronics,2018,limited_stock
+51,Art Supplies,Arts,2020,Available
+52,Sunglasses,Fashion,2021,Available
+53,Backpack,Fashion,2018,Available
+54,Soccer Ball,Sports,2019,Available
+55,Bicycle,Sports,2022,out of stock
+56,Blender,Appliances,2022,Available
+57,Coffee Maker,Appliances,2023,limited_stock
+58,Blender,Appliances,2018,out of stock
+59,Sunglasses,Fashion,2018,Available
+60,Bicycle,Sports,2022,Available
+61,Tennis Racket,Sports,2021,out of stock
+62,Art Supplies,Arts,2022,Available
+63,Tablet,Electronics,2018,limited_stock
+64,Soccer Ball,Sports,2019,Available
+65,Art Supplies,Arts,2017,Available
+66,Yoga Mat,Sports,2017,limited_stock
+67,Yoga Mat,Sports,2018,Available
+68,Picnic Basket,Electronics,2017,out of stock
+69,Picnic Basket,Electronics,2019,limited_stock
+70,Art Supplies,Arts,2020,Available
+71,Laptop,Electronics,2020,Available
+72,Bicycle,Sports,2018,limited_stock
+73,Headphones,Electronics,2018,limited_stock
+74,Tablet,Electronics,2017,limited_stock
+75,Laptop,Electronics,2016,out of stock
+76,Television,Electronics,2022,Available
+77,Coffee Maker,Appliances,2019,Available
+78,Soccer Ball,Sports,2022,limited_stock
+79,Yoga Mat,Sports,2016,Available
+80,Blender,Appliances,2016,Available
+81,Tennis Racket,Sports,2016,Available
+82,Refrigerator,Appliances,2022,Available
+83,Art Supplies,Arts,2018,out of stock
+84,Blender,Appliances,2021,out of stock
+85,Blender,Appliances,2022,out of stock
+86,Laptop,Electronics,2017,limited_stock
+87,Watch,Fashion,2018,Available
+88,Blender,Appliances,2022,Available
+89,Watch,Fashion,2019,Available
+90,Refrigerator,Appliances,2019,limited_stock
+91,Television,Electronics,2018,limited_stock
+92,Headphones,Electronics,2020,Available
+93,Soccer Ball,Sports,2023,Available
+94,Smartphone,Electronics,2020,Available
+95,Blender,Appliances,2021,Available
+96,Tennis Racket,Sports,2021,Available
+97,Yoga Mat,Sports,2021,Available
+98,Picnic Basket,Electronics,2020,out of stock
+99,Watch,Fashion,2022,Available
+100,Refrigerator,Appliances,2018,limited_stock
+101,Blender,Appliances,2018,out of stock
+102,Television,Electronics,2018,limited_stock
+103,Tablet,Electronics,2021,limited_stock
+104,Tennis Racket,Sports,2017,Available
+105,Watch,Fashion,2021,out of stock
+106,Refrigerator,Appliances,2023,out of stock
+107,Headphones,Electronics,2021,limited_stock
+108,Television,Electronics,2021,out of stock
+109,Camera,Electronics,2017,limited_stock
+110,Smartphone,Electronics,2016,Available
+111,Camera,Electronics,2018,Available
+112,Smartphone,Electronics,2018,Available
+113,Camera,Electronics,2016,out of stock
+114,Refrigerator,Appliances,2022,out of stock
+115,Bicycle,Sports,2023,limited_stock
+116,BBQ Grill,Electronics,2022,limited_stock
+117,Headphones,Electronics,2022,limited_stock
+118,Bicycle,Sports,2020,Available
+119,Tablet,Electronics,2022,Available
+120,Camera,Electronics,2022,Available
+121,Smartphone,Electronics,2017,limited_stock
+122,Refrigerator,Appliances,2020,limited_stock
+123,Backpack,Fashion,2017,limited_stock
+124,Yoga Mat,Sports,2018,Available
+125,Watch,Fashion,2020,Available
+126,Art Supplies,Arts,2019,out of stock
+127,Art Supplies,Arts,2020,Available
+128,Backpack,Fashion,2021,Available
+129,BBQ Grill,Electronics,2022,limited_stock
+130,BBQ Grill,Electronics,2019,limited_stock
+131,Art Supplies,Arts,2019,Available
+132,Picnic Basket,Electronics,2020,Available
+133,Yoga Mat,Sports,2017,limited_stock
+134,Laptop,Electronics,2019,Available
+135,Soccer Ball,Sports,2016,Available
+136,Backpack,Fashion,2021,limited_stock
+137,Camera,Electronics,2019,Available
+138,Sunglasses,Fashion,2021,limited_stock
+139,Headphones,Electronics,2018,limited_stock
+140,Art Supplies,Arts,2023,out of stock
+141,Tennis Racket,Sports,2017,Available
+142,Smartphone,Electronics,2019,Available
+143,Refrigerator,Appliances,2020,limited_stock
+144,Yoga Mat,Sports,2023,Available
+145,Camera,Electronics,2019,Available
+146,Tablet,Electronics,2019,limited_stock
+147,Soccer Ball,Sports,2017,Available
+148,Sunglasses,Fashion,2021,Available
+149,BBQ Grill,Electronics,2017,limited_stock
+150,Bicycle,Sports,2020,Available
+151,Smartphone,Electronics,2020,Available
+152,Soccer Ball,Sports,2017,Available
+153,Tablet,Electronics,2018,limited_stock
+154,Bicycle,Sports,2017,Available
+155,Refrigerator,Appliances,2018,limited_stock
+156,Yoga Mat,Sports,2016,limited_stock
+157,Yoga Mat,Sports,2021,limited_stock
+158,Tablet,Electronics,2016,Available
+159,Smartphone,Electronics,2020,Available
+160,Bicycle,Sports,2019,Available
+161,Picnic Basket,Electronics,2019,Available
+162,Picnic Basket,Electronics,2021,out of stock
+163,Art Supplies,Arts,2017,Available
+164,BBQ Grill,Electronics,2021,limited_stock
+165,Laptop,Electronics,2016,out of stock
+166,Blender,Appliances,2019,limited_stock
+167,Refrigerator,Appliances,2017,Available
+168,Laptop,Electronics,2022,Available
+169,Camera,Electronics,2019,Available
+170,Picnic Basket,Electronics,2018,Available
+171,Bicycle,Sports,2021,Available
+172,Art Supplies,Arts,2021,Available
+173,Soccer Ball,Sports,2021,Available
+174,Art Supplies,Arts,2023,Available
+175,Laptop,Electronics,2019,Available
+176,Laptop,Electronics,2016,limited_stock
+177,BBQ Grill,Electronics,2018,Available
+178,Refrigerator,Appliances,2019,Available
+179,Picnic Basket,Electronics,2021,Available
+180,Picnic Basket,Electronics,2017,Available
+181,Camera,Electronics,2019,out of stock
+182,Laptop,Electronics,2020,Available
+183,Coffee Maker,Appliances,2020,Available
+184,Tennis Racket,Sports,2018,limited_stock
+185,Watch,Fashion,2018,Available
+186,Watch,Fashion,2017,Available
+187,Camera,Electronics,2020,Available
+188,Laptop,Electronics,2017,Available
+189,Tennis Racket,Sports,2021,limited_stock
+190,Tablet,Electronics,2021,Available
+191,Art Supplies,Arts,2019,Available
+192,Laptop,Electronics,2017,limited_stock
+193,Tablet,Electronics,2017,Available
+194,Camera,Electronics,2019,Available
+195,Tennis Racket,Sports,2021,Available
+196,Yoga Mat,Sports,2017,Available
+197,Yoga Mat,Sports,2016,out of stock
+198,Tablet,Electronics,2020,limited_stock
+199,Watch,Fashion,2019,Available
+200,Yoga Mat,Sports,2020,Available
+201,Laptop,Electronics,2017,out of stock
+202,Backpack,Fashion,2019,Available
+203,Soccer Ball,Sports,2020,out of stock
+204,BBQ Grill,Electronics,2019,limited_stock
+205,Soccer Ball,Sports,2018,limited_stock
+206,Tennis Racket,Sports,2016,Available
+207,Picnic Basket,Electronics,2017,limited_stock
+208,Picnic Basket,Electronics,2022,Available
+209,Bicycle,Sports,2018,Available
+210,Art Supplies,Arts,2018,out of stock
+211,Watch,Fashion,2019,Available
+212,Coffee Maker,Appliances,2020,Available
+213,BBQ Grill,Electronics,2022,Available
+214,Television,Electronics,2019,out of stock
+215,Smartphone,Electronics,2020,Available
+216,Coffee Maker,Appliances,2023,Available
+217,BBQ Grill,Electronics,2020,limited_stock
+218,Yoga Mat,Sports,2019,Available
+219,Watch,Fashion,2018,Available
+220,Laptop,Electronics,2020,out of stock
+221,Tennis Racket,Sports,2016,limited_stock
+222,Camera,Electronics,2017,Available
+223,Blender,Appliances,2017,Available
+224,Art Supplies,Arts,2020,Available
+225,Camera,Electronics,2022,out of stock
+226,Laptop,Electronics,2018,Available
+227,Camera,Electronics,2017,Available
+228,Coffee Maker,Appliances,2018,Available
+229,Watch,Fashion,2021,out of stock
+230,Soccer Ball,Sports,2018,Available
+231,Blender,Appliances,2022,limited_stock
+232,Refrigerator,Appliances,2017,Available
+233,Watch,Fashion,2018,Available
+234,Television,Electronics,2019,Available
+235,Refrigerator,Appliances,2018,limited_stock
+236,Soccer Ball,Sports,2022,Available
+237,Television,Electronics,2020,limited_stock
+238,Laptop,Electronics,2020,Available
+239,Blender,Appliances,2016,Available
+240,Coffee Maker,Appliances,2017,out of stock
+241,Tablet,Electronics,2019,limited_stock
+242,Refrigerator,Appliances,2021,Available
+243,Coffee Maker,Appliances,2018,Available
+244,Blender,Appliances,2018,Available
+245,Blender,Appliances,2019,Available
+246,Television,Electronics,2017,out of stock
+247,Coffee Maker,Appliances,2016,limited_stock
+248,Refrigerator,Appliances,2017,out of stock
+249,Smartphone,Electronics,2019,Available
+250,Art Supplies,Arts,2017,Available
+251,Yoga Mat,Sports,2021,Available
+252,Watch,Fashion,2020,limited_stock
+253,Backpack,Fashion,2021,Available
+254,Picnic Basket,Electronics,2018,Available
+255,Sunglasses,Fashion,2018,Available
+256,Art Supplies,Arts,2016,Available
+257,Blender,Appliances,2018,Available
+258,Refrigerator,Appliances,2019,Available
+259,Art Supplies,Arts,2020,Available
+260,Picnic Basket,Electronics,2020,Available
+261,BBQ Grill,Electronics,2018,out of stock
+262,Tennis Racket,Sports,2018,Available
+263,Bicycle,Sports,2021,Available
+264,Refrigerator,Appliances,2021,Available
+265,Headphones,Electronics,2018,Available
+266,Smartphone,Electronics,2022,Available
+267,Headphones,Electronics,2016,Available
+268,Tennis Racket,Sports,2020,Available
+269,Backpack,Fashion,2017,limited_stock
+270,Smartphone,Electronics,2019,limited_stock
+271,Television,Electronics,2021,Available
+272,Tennis Racket,Sports,2020,out of stock
+273,Yoga Mat,Sports,2020,out of stock
+274,Art Supplies,Arts,2017,out of stock
+275,Picnic Basket,Electronics,2019,Available
+276,BBQ Grill,Electronics,2021,Available
+277,BBQ Grill,Electronics,2019,Available
+278,Blender,Appliances,2021,Available
+279,Coffee Maker,Appliances,2020,Available
+280,Tennis Racket,Sports,2022,limited_stock
+281,Blender,Appliances,2020,Available
+282,Laptop,Electronics,2020,out of stock
+283,Coffee Maker,Appliances,2020,Available
+284,Bicycle,Sports,2017,Available
+285,Blender,Appliances,2022,Available
+286,Tablet,Electronics,2019,Available
+287,Sunglasses,Fashion,2017,Available
+288,Tennis Racket,Sports,2020,limited_stock
+289,Sunglasses,Fashion,2020,Available
+290,Bicycle,Sports,2018,Available
+291,Sunglasses,Fashion,2020,Available
+292,Tablet,Electronics,2022,Available
+293,Refrigerator,Appliances,2023,Available
+294,BBQ Grill,Electronics,2018,Available
+295,Backpack,Fashion,2022,limited_stock
+296,Camera,Electronics,2023,Available
+297,Bicycle,Sports,2021,out of stock
+298,Laptop,Electronics,2016,out of stock
+299,Art Supplies,Arts,2020,Available
+300,Sunglasses,Fashion,2020,Available
+301,Picnic Basket,Electronics,2018,limited_stock
+302,Tablet,Electronics,2022,Available
+303,Watch,Fashion,2019,Available
+304,BBQ Grill,Electronics,2016,Available
+305,Smartphone,Electronics,2019,Available
+306,Sunglasses,Fashion,2022,Available
+307,Picnic Basket,Electronics,2020,limited_stock
+308,Tablet,Electronics,2019,limited_stock
+309,Sunglasses,Fashion,2022,Available
+310,Smartphone,Electronics,2022,Available
+311,Smartphone,Electronics,2020,limited_stock
+312,Backpack,Fashion,2016,limited_stock
+313,Picnic Basket,Electronics,2018,Available
+314,Soccer Ball,Sports,2017,limited_stock
+315,Bicycle,Sports,2018,Available
+316,Coffee Maker,Appliances,2018,Available
+317,Soccer Ball,Sports,2017,Available
+318,Backpack,Fashion,2021,Available
+319,Sunglasses,Fashion,2017,Available
+320,Picnic Basket,Electronics,2017,Available
+321,Headphones,Electronics,2021,Available
+322,Smartphone,Electronics,2017,Available
+323,Smartphone,Electronics,2018,Available
+324,Blender,Appliances,2021,Available
+325,Art Supplies,Arts,2020,limited_stock
+326,Picnic Basket,Electronics,2017,Available
+327,Sunglasses,Fashion,2017,limited_stock
+328,Sunglasses,Fashion,2018,Available
+329,Tablet,Electronics,2019,Available
+330,Picnic Basket,Electronics,2016,Available
+331,BBQ Grill,Electronics,2019,limited_stock
+332,BBQ Grill,Electronics,2020,Available
+333,Camera,Electronics,2020,Available
+334,Refrigerator,Appliances,2017,Available
+335,Laptop,Electronics,2016,limited_stock
+336,Picnic Basket,Electronics,2023,Available
+337,Art Supplies,Arts,2017,out of stock
+338,Television,Electronics,2018,Available
+339,Blender,Appliances,2016,out of stock
+340,Camera,Electronics,2018,limited_stock
+341,Art Supplies,Arts,2018,Available
+342,Yoga Mat,Sports,2017,limited_stock
+343,Tablet,Electronics,2021,Available
+344,Yoga Mat,Sports,2016,Available
+345,Smartphone,Electronics,2019,limited_stock
+346,Sunglasses,Fashion,2016,limited_stock
+347,Headphones,Electronics,2020,Available
+348,Blender,Appliances,2020,Available
+349,Laptop,Electronics,2017,Available
+350,BBQ Grill,Electronics,2017,Available
+351,Art Supplies,Arts,2023,limited_stock
+352,Backpack,Fashion,2018,out of stock
+353,Picnic Basket,Electronics,2019,Available
+354,Headphones,Electronics,2019,Available
+355,Yoga Mat,Sports,2022,out of stock
+356,Bicycle,Sports,2022,Available
+357,Coffee Maker,Appliances,2019,Available
+358,Tennis Racket,Sports,2018,Available
+359,Tablet,Electronics,2022,Available
+360,Coffee Maker,Appliances,2017,Available
+361,Backpack,Fashion,2022,Available
+362,Yoga Mat,Sports,2018,Available
+363,Headphones,Electronics,2022,limited_stock
+364,Art Supplies,Arts,2020,Available
+365,Coffee Maker,Appliances,2021,Available
+366,Bicycle,Sports,2022,limited_stock
+367,Picnic Basket,Electronics,2022,Available
+368,Tablet,Electronics,2017,out of stock
+369,Refrigerator,Appliances,2020,out of stock
+370,Refrigerator,Appliances,2023,Available
+371,Tennis Racket,Sports,2022,Available
+372,Yoga Mat,Sports,2023,Available
+373,Bicycle,Sports,2023,out of stock
+374,Tennis Racket,Sports,2022,Available
+375,Headphones,Electronics,2021,Available
+376,Sunglasses,Fashion,2022,Available
+377,Art Supplies,Arts,2017,Available
+378,Soccer Ball,Sports,2019,Available
+379,Laptop,Electronics,2017,Available
+380,Television,Electronics,2021,Available
+381,Bicycle,Sports,2016,Available
+382,Art Supplies,Arts,2017,Available
+383,Backpack,Fashion,2023,Available
+384,Picnic Basket,Electronics,2019,Available
+385,Tennis Racket,Sports,2019,Available
+386,Bicycle,Sports,2021,out of stock
+387,Sunglasses,Fashion,2021,limited_stock
+388,Tablet,Electronics,2020,Available
+389,Camera,Electronics,2021,Available
+390,Tennis Racket,Sports,2021,Available
+391,Art Supplies,Arts,2018,Available
+392,BBQ Grill,Electronics,2019,out of stock
+393,Smartphone,Electronics,2023,Available
+394,Art Supplies,Arts,2018,out of stock
+395,Refrigerator,Appliances,2020,out of stock
+396,BBQ Grill,Electronics,2018,Available
+397,Refrigerator,Appliances,2019,limited_stock
+398,Smartphone,Electronics,2016,Available
+399,Watch,Fashion,2021,out of stock
+400,Coffee Maker,Appliances,2018,Available
+401,Smartphone,Electronics,2019,limited_stock
+402,Yoga Mat,Sports,2017,limited_stock
+403,Laptop,Electronics,2016,limited_stock
+404,Watch,Fashion,2018,limited_stock
+405,Television,Electronics,2016,Available
+406,Tennis Racket,Sports,2021,Available
+407,Laptop,Electronics,2021,Available
+408,Laptop,Electronics,2022,Available
+409,Laptop,Electronics,2019,Available
+410,Refrigerator,Appliances,2019,Available
+411,Blender,Appliances,2018,out of stock
+412,Art Supplies,Arts,2019,Available
+413,Headphones,Electronics,2019,Available
+414,Bicycle,Sports,2021,Available
+415,Art Supplies,Arts,2016,Available
+416,Camera,Electronics,2020,limited_stock
+417,Art Supplies,Arts,2020,Available
+418,Refrigerator,Appliances,2023,limited_stock
+419,Laptop,Electronics,2019,Available
+420,Bicycle,Sports,2017,Available
+421,Tablet,Electronics,2023,limited_stock
+422,Smartphone,Electronics,2022,Available
+423,Blender,Appliances,2021,Available
+424,Camera,Electronics,2020,Available
+425,Tennis Racket,Sports,2019,Available
+426,Smartphone,Electronics,2021,Available
+427,Art Supplies,Arts,2017,limited_stock
+428,Smartphone,Electronics,2019,out of stock
+429,Watch,Fashion,2018,Available
+430,Art Supplies,Arts,2021,Available
+431,Blender,Appliances,2017,limited_stock
+432,BBQ Grill,Electronics,2021,out of stock
+433,Sunglasses,Fashion,2018,Available
+434,Tablet,Electronics,2023,Available
+435,Camera,Electronics,2023,Available
+436,Smartphone,Electronics,2023,Available
+437,Watch,Fashion,2019,limited_stock
+438,Backpack,Fashion,2022,Available
+439,BBQ Grill,Electronics,2019,Available
+440,Picnic Basket,Electronics,2019,limited_stock
+441,Bicycle,Sports,2021,Available
+442,Blender,Appliances,2019,Available
+443,Art Supplies,Arts,2017,Available
+444,Soccer Ball,Sports,2016,Available
+445,Yoga Mat,Sports,2018,Available
+446,Refrigerator,Appliances,2022,limited_stock
+447,Laptop,Electronics,2018,Available
+448,Laptop,Electronics,2021,Available
+449,Tablet,Electronics,2016,Available
+450,BBQ Grill,Electronics,2017,Available
+451,Television,Electronics,2017,Available
+452,Headphones,Electronics,2022,Available
+453,Sunglasses,Fashion,2022,Available
+454,Picnic Basket,Electronics,2016,Available
+455,Blender,Appliances,2021,Available
+456,Refrigerator,Appliances,2021,Available
+457,Soccer Ball,Sports,2018,Available
+458,Camera,Electronics,2018,Available
+459,Tablet,Electronics,2017,Available
+460,Soccer Ball,Sports,2018,limited_stock
+461,Smartphone,Electronics,2020,Available
+462,Tablet,Electronics,2018,limited_stock
+463,Television,Electronics,2022,Available
+464,Coffee Maker,Appliances,2022,Available
+465,Coffee Maker,Appliances,2020,Available
+466,Coffee Maker,Appliances,2018,limited_stock
+467,Camera,Electronics,2023,Available
+468,Smartphone,Electronics,2021,out of stock
+469,Art Supplies,Arts,2022,Available
+470,Art Supplies,Arts,2020,limited_stock
+471,Coffee Maker,Appliances,2019,limited_stock
+472,Sunglasses,Fashion,2022,Available
+473,Coffee Maker,Appliances,2019,Available
+474,Refrigerator,Appliances,2023,Available
+475,Soccer Ball,Sports,2018,limited_stock
+476,Tablet,Electronics,2023,Available
+477,Television,Electronics,2017,limited_stock
+478,Smartphone,Electronics,2018,Available
+479,Watch,Fashion,2021,Available
+480,Television,Electronics,2023,Available
+481,Picnic Basket,Electronics,2017,Available
+482,BBQ Grill,Electronics,2021,Available
+483,Headphones,Electronics,2017,Available
+484,Sunglasses,Fashion,2023,Available
+485,Headphones,Electronics,2022,Available
+486,Art Supplies,Arts,2020,limited_stock
+487,Camera,Electronics,2021,Available
+488,Watch,Fashion,2022,Available
+489,Coffee Maker,Appliances,2020,limited_stock
+490,Watch,Fashion,2021,limited_stock
+491,Tennis Racket,Sports,2022,Available
+492,BBQ Grill,Electronics,2018,out of stock
+493,Sunglasses,Fashion,2023,Available
+494,Bicycle,Sports,2019,out of stock
+495,Coffee Maker,Appliances,2016,Available
+496,BBQ Grill,Electronics,2021,Available
+497,Tablet,Electronics,2020,out of stock
+498,Sunglasses,Fashion,2020,limited_stock
+499,BBQ Grill,Electronics,2016,Available
+500,Tennis Racket,Sports,2023,Available
+501,Television,Electronics,2017,limited_stock
+502,Television,Electronics,2017,out of stock
+503,Bicycle,Sports,2021,Available
+504,Tennis Racket,Sports,2019,limited_stock
+505,Smartphone,Electronics,2022,limited_stock
+506,Sunglasses,Fashion,2018,out of stock
+507,Art Supplies,Arts,2020,out of stock
+508,Soccer Ball,Sports,2021,out of stock
+509,Smartphone,Electronics,2022,Available
+510,Smartphone,Electronics,2018,Available
+511,Art Supplies,Arts,2018,Available
+512,Yoga Mat,Sports,2023,out of stock
+513,BBQ Grill,Electronics,2023,limited_stock
+514,Soccer Ball,Sports,2022,Available
+515,Headphones,Electronics,2018,Available
+516,Tennis Racket,Sports,2016,Available
+517,Bicycle,Sports,2019,Available
+518,Sunglasses,Fashion,2018,Available
+519,Tennis Racket,Sports,2020,Available
+520,Blender,Appliances,2019,Available
+521,Refrigerator,Appliances,2021,Available
+522,Coffee Maker,Appliances,2020,Available
+523,Television,Electronics,2021,Available
+524,Bicycle,Sports,2023,Available
+525,Picnic Basket,Electronics,2019,Available
+526,Laptop,Electronics,2019,limited_stock
+527,Bicycle,Sports,2018,Available
+528,Laptop,Electronics,2016,Available
+529,Coffee Maker,Appliances,2021,Available
+530,Television,Electronics,2021,Available
+531,Picnic Basket,Electronics,2021,Available
+532,Laptop,Electronics,2022,limited_stock
+533,Headphones,Electronics,2016,limited_stock
+534,Tablet,Electronics,2019,out of stock
+535,Picnic Basket,Electronics,2022,out of stock
+536,Watch,Fashion,2020,limited_stock
+537,Tennis Racket,Sports,2021,out of stock
+538,Tablet,Electronics,2023,limited_stock
+539,Picnic Basket,Electronics,2018,Available
+540,Art Supplies,Arts,2021,Available
+541,BBQ Grill,Electronics,2019,Available
+542,Yoga Mat,Sports,2021,Available
+543,Art Supplies,Arts,2017,out of stock
+544,Bicycle,Sports,2022,Available
+545,Tennis Racket,Sports,2017,Available
+546,Television,Electronics,2019,Available
+547,Picnic Basket,Electronics,2018,Available
+548,Television,Electronics,2018,Available
+549,Television,Electronics,2018,out of stock
+550,Tennis Racket,Sports,2021,Available
+551,Backpack,Fashion,2019,limited_stock
+552,Refrigerator,Appliances,2018,Available
+553,Backpack,Fashion,2023,Available
+554,Camera,Electronics,2019,limited_stock
+555,Art Supplies,Arts,2021,limited_stock
+556,Art Supplies,Arts,2019,limited_stock
+557,Headphones,Electronics,2020,Available
+558,Camera,Electronics,2021,Available
+559,Tablet,Electronics,2017,Available
+560,Watch,Fashion,2021,Available
+561,Yoga Mat,Sports,2022,Available
+562,Bicycle,Sports,2017,limited_stock
+563,Tablet,Electronics,2019,Available
+564,Coffee Maker,Appliances,2016,Available
+565,Tablet,Electronics,2017,Available
+566,Yoga Mat,Sports,2022,Available
+567,Headphones,Electronics,2019,out of stock
+568,Laptop,Electronics,2017,out of stock
+569,Sunglasses,Fashion,2017,Available
+570,Camera,Electronics,2022,Available
+571,Art Supplies,Arts,2017,limited_stock
+572,Television,Electronics,2018,limited_stock
+573,Tennis Racket,Sports,2019,limited_stock
+574,Coffee Maker,Appliances,2018,Available
+575,Smartphone,Electronics,2019,Available
+576,Picnic Basket,Electronics,2022,Available
+577,Camera,Electronics,2016,Available
+578,Camera,Electronics,2022,limited_stock
+579,Picnic Basket,Electronics,2021,Available
+580,Blender,Appliances,2022,out of stock
+581,Refrigerator,Appliances,2016,limited_stock
+582,Smartphone,Electronics,2022,Available
+583,Bicycle,Sports,2020,Available
+584,Backpack,Fashion,2016,limited_stock
+585,Backpack,Fashion,2019,out of stock
+586,Blender,Appliances,2016,Available
+587,Watch,Fashion,2018,Available
+588,Watch,Fashion,2020,out of stock
+589,Refrigerator,Appliances,2022,limited_stock
+590,Tablet,Electronics,2023,Available
+591,Tennis Racket,Sports,2020,out of stock
+592,Art Supplies,Arts,2017,Available
+593,Soccer Ball,Sports,2020,Available
+594,Coffee Maker,Appliances,2020,Available
+595,Smartphone,Electronics,2016,Available
+596,Watch,Fashion,2018,Available
+597,Soccer Ball,Sports,2019,Available
+598,Yoga Mat,Sports,2021,limited_stock
+599,Soccer Ball,Sports,2023,Available
+600,Soccer Ball,Sports,2017,out of stock
+601,Tennis Racket,Sports,2017,out of stock
+602,Tennis Racket,Sports,2023,Available
+603,Bicycle,Sports,2019,Available
+604,Headphones,Electronics,2020,Available
+605,Picnic Basket,Electronics,2019,out of stock
+606,Tennis Racket,Sports,2020,Available
+607,Laptop,Electronics,2021,limited_stock
+608,Backpack,Fashion,2017,out of stock
+609,Watch,Fashion,2021,limited_stock
+610,Smartphone,Electronics,2021,Available
+611,Art Supplies,Arts,2017,Available
+612,Coffee Maker,Appliances,2019,Available
+613,Coffee Maker,Appliances,2020,Available
+614,Bicycle,Sports,2019,Available
+615,Bicycle,Sports,2023,Available
+616,Tennis Racket,Sports,2018,Available
+617,Soccer Ball,Sports,2016,limited_stock
+618,Picnic Basket,Electronics,2023,limited_stock
+619,Backpack,Fashion,2022,out of stock
+620,Refrigerator,Appliances,2019,Available
+621,BBQ Grill,Electronics,2019,Available
+622,Tablet,Electronics,2017,Available
+623,Sunglasses,Fashion,2019,out of stock
+624,Tennis Racket,Sports,2023,limited_stock
+625,BBQ Grill,Electronics,2017,Available
+626,Backpack,Fashion,2022,Available
+627,Smartphone,Electronics,2021,Available
+628,Headphones,Electronics,2021,Available
+629,Picnic Basket,Electronics,2020,limited_stock
+630,Tablet,Electronics,2017,Available
+631,Yoga Mat,Sports,2022,limited_stock
+632,Backpack,Fashion,2018,Available
+633,Coffee Maker,Appliances,2019,Available
+634,Yoga Mat,Sports,2018,limited_stock
+635,Tennis Racket,Sports,2019,limited_stock
+636,Coffee Maker,Appliances,2019,Available
+637,Smartphone,Electronics,2021,Available
+638,Coffee Maker,Appliances,2022,Available
+639,Refrigerator,Appliances,2017,out of stock
+640,Headphones,Electronics,2023,limited_stock
+641,Bicycle,Sports,2021,limited_stock
+642,Tennis Racket,Sports,2022,Available
+643,Television,Electronics,2016,Available
+644,Headphones,Electronics,2020,Available
+645,Headphones,Electronics,2017,Available
+646,Blender,Appliances,2018,Available
+647,Smartphone,Electronics,2021,Available
+648,Blender,Appliances,2020,Available
+649,Bicycle,Sports,2017,limited_stock
+650,Coffee Maker,Appliances,2017,limited_stock
+651,Yoga Mat,Sports,2021,Available
+652,Camera,Electronics,2020,out of stock
+653,Smartphone,Electronics,2022,out of stock
+654,Tablet,Electronics,2018,Available
+655,Laptop,Electronics,2018,out of stock
+656,Coffee Maker,Appliances,2021,out of stock
+657,Soccer Ball,Sports,2021,Available
+658,Sunglasses,Fashion,2020,Available
+659,Watch,Fashion,2020,Available
+660,Soccer Ball,Sports,2022,Available
+661,Sunglasses,Fashion,2019,Available
+662,Picnic Basket,Electronics,2016,Available
+663,Television,Electronics,2016,Available
+664,Art Supplies,Arts,2019,Available
+665,Smartphone,Electronics,2020,Available
+666,Backpack,Fashion,2020,Available
+667,Picnic Basket,Electronics,2019,Available
+668,Soccer Ball,Sports,2022,Available
+669,Television,Electronics,2021,limited_stock
+670,Coffee Maker,Appliances,2018,limited_stock
+671,Tennis Racket,Sports,2021,Available
+672,Yoga Mat,Sports,2023,Available
+673,Laptop,Electronics,2018,Available
+674,Refrigerator,Appliances,2022,Available
+675,Headphones,Electronics,2023,Available
+676,Yoga Mat,Sports,2021,limited_stock
+677,Tennis Racket,Sports,2022,Available
+678,Art Supplies,Arts,2021,limited_stock
+679,Refrigerator,Appliances,2022,Available
+680,Sunglasses,Fashion,2016,out of stock
+681,Art Supplies,Arts,2017,Available
+682,BBQ Grill,Electronics,2021,Available
+683,Laptop,Electronics,2023,Available
+684,Smartphone,Electronics,2019,Available
+685,Tablet,Electronics,2018,Available
+686,Bicycle,Sports,2018,Available
+687,Soccer Ball,Sports,2017,out of stock
+688,Tennis Racket,Sports,2018,Available
+689,Sunglasses,Fashion,2018,limited_stock
+690,BBQ Grill,Electronics,2018,limited_stock
+691,Blender,Appliances,2021,limited_stock
+692,Television,Electronics,2016,Available
+693,Refrigerator,Appliances,2022,Available
+694,Blender,Appliances,2023,limited_stock
+695,BBQ Grill,Electronics,2017,limited_stock
+696,Laptop,Electronics,2016,Available
+697,Tennis Racket,Sports,2019,out of stock
+698,Tablet,Electronics,2022,limited_stock
+699,Tennis Racket,Sports,2022,limited_stock
+700,BBQ Grill,Electronics,2017,limited_stock
+701,Sunglasses,Fashion,2022,limited_stock
+702,Television,Electronics,2018,Available
+703,Bicycle,Sports,2022,limited_stock
+704,Watch,Fashion,2021,Available
+705,Sunglasses,Fashion,2019,Available
+706,Blender,Appliances,2019,limited_stock
+707,Bicycle,Sports,2019,out of stock
+708,Tablet,Electronics,2021,Available
+709,Television,Electronics,2020,Available
+710,Picnic Basket,Electronics,2023,Available
+711,Backpack,Fashion,2022,Available
+712,Soccer Ball,Sports,2022,Available
+713,Laptop,Electronics,2018,Available
+714,Picnic Basket,Electronics,2016,Available
+715,Refrigerator,Appliances,2020,limited_stock
+716,Yoga Mat,Sports,2020,out of stock
+717,Art Supplies,Arts,2017,Available
+718,Television,Electronics,2018,Available
+719,Tablet,Electronics,2017,Available
+720,Blender,Appliances,2017,limited_stock
+721,Sunglasses,Fashion,2022,limited_stock
+722,Picnic Basket,Electronics,2023,limited_stock
+723,Blender,Appliances,2017,Available
+724,Blender,Appliances,2022,Available
+725,Blender,Appliances,2017,Available
+726,Television,Electronics,2019,Available
+727,Watch,Fashion,2020,Available
+728,Camera,Electronics,2021,Available
+729,Television,Electronics,2022,Available
+730,Laptop,Electronics,2018,Available
+731,Blender,Appliances,2017,out of stock
+732,Television,Electronics,2017,limited_stock
+733,BBQ Grill,Electronics,2022,Available
+734,Headphones,Electronics,2020,Available
+735,Watch,Fashion,2022,Available
+736,Soccer Ball,Sports,2018,Available
+737,Tablet,Electronics,2021,Available
+738,Smartphone,Electronics,2021,Available
+739,Refrigerator,Appliances,2021,limited_stock
+740,Art Supplies,Arts,2019,Available
+741,Camera,Electronics,2020,Available
+742,Yoga Mat,Sports,2022,limited_stock
+743,Watch,Fashion,2018,Available
+744,Yoga Mat,Sports,2022,Available
+745,Art Supplies,Arts,2020,out of stock
+746,Headphones,Electronics,2017,Available
+747,Bicycle,Sports,2020,out of stock
+748,BBQ Grill,Electronics,2021,limited_stock
+749,Yoga Mat,Sports,2022,Available
+750,Headphones,Electronics,2019,limited_stock
+751,Watch,Fashion,2020,Available
+752,Soccer Ball,Sports,2016,Available
+753,Blender,Appliances,2020,Available
+754,Bicycle,Sports,2019,Available
+755,Tennis Racket,Sports,2020,Available
+756,Art Supplies,Arts,2017,Available
+757,Coffee Maker,Appliances,2018,Available
+758,Headphones,Electronics,2017,Available
+759,Tennis Racket,Sports,2018,Available
+760,BBQ Grill,Electronics,2022,Available
+761,Yoga Mat,Sports,2023,Available
+762,Backpack,Fashion,2018,Available
+763,Backpack,Fashion,2021,limited_stock
+764,Laptop,Electronics,2023,limited_stock
+765,Soccer Ball,Sports,2018,Available
+766,Camera,Electronics,2018,limited_stock
+767,Tablet,Electronics,2017,Available
+768,Laptop,Electronics,2018,out of stock
+769,Art Supplies,Arts,2020,Available
+770,Refrigerator,Appliances,2017,Available
+771,Laptop,Electronics,2022,out of stock
+772,Headphones,Electronics,2020,Available
+773,Tablet,Electronics,2017,Available
+774,Bicycle,Sports,2021,Available
+775,Soccer Ball,Sports,2022,Available
+776,Laptop,Electronics,2021,limited_stock
+777,Soccer Ball,Sports,2017,Available
+778,Bicycle,Sports,2016,limited_stock
+779,Refrigerator,Appliances,2020,out of stock
+780,Tennis Racket,Sports,2017,Available
+781,Bicycle,Sports,2019,Available
+782,Headphones,Electronics,2020,out of stock
+783,Smartphone,Electronics,2022,Available
+784,Soccer Ball,Sports,2022,Available
+785,Sunglasses,Fashion,2020,Available
+786,Headphones,Electronics,2016,Available
+787,Headphones,Electronics,2019,limited_stock
+788,Headphones,Electronics,2022,Available
+789,Tablet,Electronics,2016,Available
+790,Television,Electronics,2018,Available
+791,Refrigerator,Appliances,2021,Available
+792,Smartphone,Electronics,2019,Available
+793,Smartphone,Electronics,2018,Available
+794,Headphones,Electronics,2021,Available
+795,Yoga Mat,Sports,2023,limited_stock
+796,Art Supplies,Arts,2016,out of stock
+797,Tablet,Electronics,2021,limited_stock
+798,Headphones,Electronics,2021,Available
+799,Sunglasses,Fashion,2022,out of stock
+800,Bicycle,Sports,2020,limited_stock
+801,Sunglasses,Fashion,2022,Available
+802,Television,Electronics,2018,Available
+803,Laptop,Electronics,2019,out of stock
+804,Watch,Fashion,2022,Available
+805,Art Supplies,Arts,2017,limited_stock
+806,Blender,Appliances,2018,Available
+807,Tennis Racket,Sports,2017,Available
+808,Headphones,Electronics,2017,Available
+809,Laptop,Electronics,2018,limited_stock
+810,BBQ Grill,Electronics,2019,Available
+811,Soccer Ball,Sports,2018,Available
+812,Laptop,Electronics,2022,Available
+813,Art Supplies,Arts,2017,limited_stock
+814,Blender,Appliances,2019,Available
+815,Bicycle,Sports,2022,Available
+816,Smartphone,Electronics,2021,limited_stock
+817,Soccer Ball,Sports,2021,Available
+818,Yoga Mat,Sports,2017,Available
+819,Tennis Racket,Sports,2018,limited_stock
+820,Smartphone,Electronics,2017,Available
+821,Smartphone,Electronics,2016,Available
+822,Coffee Maker,Appliances,2019,out of stock
+823,BBQ Grill,Electronics,2017,Available
+824,Art Supplies,Arts,2022,Available
+825,Sunglasses,Fashion,2023,Available
+826,Tablet,Electronics,2021,Available
+827,Yoga Mat,Sports,2021,Available
+828,Camera,Electronics,2021,limited_stock
+829,Sunglasses,Fashion,2020,out of stock
+830,Backpack,Fashion,2018,Available
+831,Smartphone,Electronics,2017,Available
+832,Yoga Mat,Sports,2021,Available
+833,Tablet,Electronics,2016,Available
+834,Tennis Racket,Sports,2017,Available
+835,Soccer Ball,Sports,2020,Available
+836,Watch,Fashion,2022,Available
+837,Soccer Ball,Sports,2020,limited_stock
+838,Soccer Ball,Sports,2017,Available
+839,Soccer Ball,Sports,2019,limited_stock
+840,Camera,Electronics,2022,Available
+841,Refrigerator,Appliances,2021,limited_stock
+842,Yoga Mat,Sports,2022,Available
+843,BBQ Grill,Electronics,2018,Available
+844,Television,Electronics,2017,out of stock
+845,Headphones,Electronics,2021,Available
+846,Tennis Racket,Sports,2018,out of stock
+847,Tennis Racket,Sports,2022,Available
+848,Yoga Mat,Sports,2018,Available
+849,Watch,Fashion,2021,limited_stock
+850,Laptop,Electronics,2022,out of stock
+851,Headphones,Electronics,2019,Available
+852,Picnic Basket,Electronics,2020,Available
+853,Refrigerator,Appliances,2016,Available
+854,Bicycle,Sports,2018,limited_stock
+855,Watch,Fashion,2018,Available
+856,Art Supplies,Arts,2022,limited_stock
+857,BBQ Grill,Electronics,2022,limited_stock
+858,Picnic Basket,Electronics,2020,Available
+859,Headphones,Electronics,2022,out of stock
+860,Camera,Electronics,2016,Available
+861,Sunglasses,Fashion,2023,Available
+862,Coffee Maker,Appliances,2021,limited_stock
+863,Smartphone,Electronics,2021,limited_stock
+864,Sunglasses,Fashion,2017,Available
+865,Bicycle,Sports,2017,limited_stock
+866,Blender,Appliances,2017,limited_stock
+867,Backpack,Fashion,2022,Available
+868,Television,Electronics,2020,Available
+869,Tennis Racket,Sports,2022,out of stock
+870,Art Supplies,Arts,2022,Available
+871,Bicycle,Sports,2021,Available
+872,Television,Electronics,2022,out of stock
+873,BBQ Grill,Electronics,2020,Available
+874,Tablet,Electronics,2022,Available
+875,Soccer Ball,Sports,2021,limited_stock
+876,Television,Electronics,2019,Available
+877,Camera,Electronics,2016,limited_stock
+878,Art Supplies,Arts,2016,Available
+879,Headphones,Electronics,2020,limited_stock
+880,Laptop,Electronics,2018,limited_stock
+881,Tablet,Electronics,2020,out of stock
+882,Coffee Maker,Appliances,2018,Available
+883,Tennis Racket,Sports,2022,limited_stock
+884,Art Supplies,Arts,2019,Available
+885,Laptop,Electronics,2016,Available
+886,Laptop,Electronics,2021,Available
+887,Blender,Appliances,2019,Available
+888,Bicycle,Sports,2022,Available
+889,Laptop,Electronics,2019,Available
+890,Watch,Fashion,2016,out of stock
+891,Laptop,Electronics,2017,Available
+892,Television,Electronics,2019,limited_stock
+893,Camera,Electronics,2018,Available
+894,Bicycle,Sports,2020,Available
+895,Tennis Racket,Sports,2019,Available
+896,Watch,Fashion,2017,out of stock
+897,Tennis Racket,Sports,2018,out of stock
+898,Laptop,Electronics,2019,Available
+899,Tablet,Electronics,2021,Available
+900,Television,Electronics,2019,Available
+901,BBQ Grill,Electronics,2020,Available
+902,Watch,Fashion,2022,Available
+903,Sunglasses,Fashion,2017,Available
+904,Laptop,Electronics,2021,Available
+905,Camera,Electronics,2020,Available
+906,Coffee Maker,Appliances,2018,Available
+907,Tennis Racket,Sports,2021,limited_stock
+908,Tennis Racket,Sports,2020,Available
+909,Picnic Basket,Electronics,2017,out of stock
+910,Blender,Appliances,2022,Available
+911,BBQ Grill,Electronics,2023,limited_stock
+912,Laptop,Electronics,2016,Available
+913,Tennis Racket,Sports,2023,limited_stock
+914,Sunglasses,Fashion,2016,out of stock
+915,Smartphone,Electronics,2018,Available
+916,Yoga Mat,Sports,2021,Available
+917,Picnic Basket,Electronics,2019,Available
+918,Backpack,Fashion,2017,limited_stock
+919,Television,Electronics,2022,Available
+920,Laptop,Electronics,2020,Available
+921,Picnic Basket,Electronics,2023,Available
+922,Tennis Racket,Sports,2017,limited_stock
+923,Tablet,Electronics,2021,limited_stock
+924,Headphones,Electronics,2021,out of stock
+925,Bicycle,Sports,2016,out of stock
+926,Bicycle,Sports,2017,Available
+927,Art Supplies,Arts,2019,Available
+928,Television,Electronics,2018,limited_stock
+929,Refrigerator,Appliances,2019,Available
+930,Yoga Mat,Sports,2021,limited_stock
+931,Picnic Basket,Electronics,2022,Available
+932,Picnic Basket,Electronics,2021,out of stock
+933,Yoga Mat,Sports,2017,Available
+934,Blender,Appliances,2016,Available
+935,Blender,Appliances,2016,Available
+936,Laptop,Electronics,2020,out of stock
+937,Coffee Maker,Appliances,2018,limited_stock
+938,Television,Electronics,2018,Available
+939,Bicycle,Sports,2018,out of stock
+940,Laptop,Electronics,2017,limited_stock
+941,Smartphone,Electronics,2016,Available
+942,Art Supplies,Arts,2020,out of stock
+943,Sunglasses,Fashion,2016,Available
+944,Tablet,Electronics,2020,out of stock
+945,Blender,Appliances,2018,Available
+946,Headphones,Electronics,2019,out of stock
+947,BBQ Grill,Electronics,2022,out of stock
+948,Backpack,Fashion,2022,Available
+949,Soccer Ball,Sports,2019,Available
+950,Tablet,Electronics,2021,Available
+951,BBQ Grill,Electronics,2018,limited_stock
+952,BBQ Grill,Electronics,2018,out of stock
+953,Laptop,Electronics,2021,Available
+954,Refrigerator,Appliances,2020,Available
+955,Sunglasses,Fashion,2016,out of stock
+956,Laptop,Electronics,2022,limited_stock
+957,Backpack,Fashion,2016,limited_stock
+958,Picnic Basket,Electronics,2022,Available
+959,Tennis Racket,Sports,2017,Available
+960,Headphones,Electronics,2021,Available
+961,Television,Electronics,2022,out of stock
+962,Refrigerator,Appliances,2016,Available
+963,Picnic Basket,Electronics,2021,Available
+964,Coffee Maker,Appliances,2022,Available
+965,BBQ Grill,Electronics,2016,out of stock
+966,Smartphone,Electronics,2017,Available
+967,Watch,Fashion,2022,limited_stock
+968,Bicycle,Sports,2022,Available
+969,Backpack,Fashion,2017,Available
+970,Headphones,Electronics,2019,limited_stock
+971,Picnic Basket,Electronics,2017,Available
+972,Headphones,Electronics,2023,limited_stock
+973,Smartphone,Electronics,2018,limited_stock
+974,Tablet,Electronics,2017,limited_stock
+975,Backpack,Fashion,2021,limited_stock
+976,Yoga Mat,Sports,2021,limited_stock
+977,Sunglasses,Fashion,2016,Available
+978,Television,Electronics,2020,out of stock
+979,Camera,Electronics,2018,limited_stock
+980,Television,Electronics,2023,Available
+981,Laptop,Electronics,2021,Available
+982,Coffee Maker,Appliances,2017,limited_stock
+983,Yoga Mat,Sports,2018,Available
+984,Laptop,Electronics,2022,limited_stock
+985,Soccer Ball,Sports,2020,Available
+986,Sunglasses,Fashion,2016,out of stock
+987,Camera,Electronics,2020,Available
+988,Soccer Ball,Sports,2021,Available
+989,Art Supplies,Arts,2017,Available
+990,Watch,Fashion,2019,limited_stock
+991,Coffee Maker,Appliances,2018,Available
+992,Refrigerator,Appliances,2019,Available
+993,BBQ Grill,Electronics,2020,limited_stock
+994,Backpack,Fashion,2020,limited_stock
+995,Smartphone,Electronics,2020,Available
+996,Watch,Fashion,2017,limited_stock
+997,Refrigerator,Appliances,2017,limited_stock
+998,Coffee Maker,Appliances,2020,limited_stock
+999,Backpack,Fashion,2019,Available
+1000,Sunglasses,Fashion,2021,limited_stock

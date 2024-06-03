@@ -1,0 +1,101 @@
+id,full_name,phone,email,gender,date_of_birth,city,state,country,customer_segment,education,customer_source
+1001,Brian Oggers,609-832-9795,boggers0@privacy.gov.au,Male,9/20/1971,Trenton,NJ,US,partners,bachelor's degree,affiliate marketing
+1002,Nathan Hobble,215-591-3399,nhobble1@usgs.gov,Male,10/30/1970,Philadelphia,PA,US,partners,doctorate,affiliate marketing
+1003,Elisha Crosier,205-596-3608,ecrosier2@linkedin.com,Male,4/24/1973,Birmingham,AL,US,government,some college,affiliate marketing
+1004,Cort Manley,303-472-6634,cmanley3@unesco.org,Male,1/15/1990,Denver,CO,US,partners,some college,affiliate marketing
+1005,Ferne Sans,513-137-3436,fsans4@jugem.jp,Female,6/26/1988,Cincinnati,OH,US,retail,bachelor's degree,word of mouth
+1006,Clarisse Kissick,509-635-8147,ckissick5@miibeian.gov.cn,Female,10/12/2004,Spokane,WA,US,partners,high school,customer referrals
+1007,Lynn Antic,804-340-0838,lantic6@wordpress.com,Male,12/24/1989,Richmond,VA,US,government,high school,social marketing
+1008,Ruthanne Casterot,210-534-8216,rcasterot7@tiny.cc,Female,9/30/2007,San Antonio,TX,US,wholesale,some college,social marketing
+1009,Melly Joynes,513-843-1447,mjoynes8@baidu.com,Female,1/31/1983,Cincinnati,OH,US,corporate,some college,customer referrals
+1010,Eveleen Andries,585-669-3962,eandries9@ning.com,Non-binary,2/5/1978,Rochester,NY,US,government,other,affiliate marketing
+1011,Almira Widdowfield,206-327-2425,awiddowfielda@businessweek.com,Female,1/19/1978,Seattle,WA,US,retail,some college,affiliate marketing
+1012,Mella Clunan,559-386-0240,mclunanb@weebly.com,Polygender,8/22/2008,Fullerton,CA,US,corporate,other,social marketing
+1013,Ortensia Cristofori,973-474-4857,ocristoforic@yellowbook.com,Female,3/23/1986,Newark,NJ,US,government,some college,social marketing
+1014,Hayward Wearden,952-840-9774,hweardend@digg.com,Male,12/25/1988,Saint Paul,MN,US,wholesale,doctorate,affiliate marketing
+1015,Kimbell McEachern,601-192-2230,kmceacherne@howstuffworks.com,Male,4/26/1990,Hattiesburg,MS,US,wholesale,master's degree,social marketing
+1016,Jasun Orgill,208-585-9971,jorgillf@sphinn.com,Male,3/15/1975,Boise,ID,US,retail,some college,word of mouth
+1017,Madelle Kydd,615-521-3903,mkyddg@wunderground.com,Female,4/18/1971,Nashville,TN,US,individual,bachelor's degree,word of mouth
+1018,Vladimir Schohier,915-604-2034,vschohierh@instagram.com,Male,5/14/1987,El Paso,TX,US,partners,bachelor's degree,word of mouth
+1019,Janis Jennings,361-811-5718,jjenningsi@webeden.co.uk,Female,12/27/1974,Corpus Christi,TX,US,retail,high school,customer referrals
+1020,Jaymie Lush,281-249-8059,jlushj@nhs.uk,Male,3/11/2009,Houston,TX,US,corporate,bachelor's degree,customer referrals
+1021,Oates Doumic,918-823-3234,odoumick@samsung.com,Male,10/29/1999,Tulsa,OK,US,individual,some college,customer referrals
+1022,Karlyn Napolitano,501-966-8017,knapolitanol@furl.net,Female,12/20/1985,North Little Rock,AR,US,partners,bachelor's degree,word of mouth
+1023,Karena Szimon,339-266-3733,kszimonm@discovery.com,Female,12/8/1975,Woburn,MA,US,retail,bachelor's degree,affiliate marketing
+1024,Shirleen Dyball,805-348-0288,sdyballn@phpbb.com,Female,10/18/1982,Simi Valley,CA,US,partners,doctorate,social marketing
+1025,Hermione Beevens,916-759-6229,hbeevenso@mediafire.com,Female,9/16/1989,Sacramento,CA,US,individual,master's degree,social marketing
+1026,Larissa Vigietti,540-944-6280,lvigiettip@freewebs.com,Female,1/20/2008,Roanoke,VA,US,individual,high school,word of mouth
+1027,Corrie Sinkinson,248-364-6927,csinkinsonq@ezinearticles.com,Male,6/17/1977,Troy,MI,US,retail,doctorate,word of mouth
+1028,Bondon Hugli,240-925-7978,bhuglir@mysql.com,Male,10/25/2004,Gaithersburg,MD,US,retail,master's degree,word of mouth
+1029,Kelsey Ghest,917-670-0706,kghests@sphinn.com,Female,3/5/1994,Jamaica,NY,US,corporate,bachelor's degree,customer referrals
+1030,Hasty Lauridsen,832-650-4050,hlauridsent@elpais.com,Male,4/21/1994,Houston,TX,US,corporate,master's degree,social marketing
+1031,Malissia Harbor,216-362-0177,mharboru@mediafire.com,Female,7/19/1986,Cleveland,OH,US,wholesale,some college,customer referrals
+1032,Gael Freemantle,215-131-2341,gfreemantlev@yale.edu,Male,4/29/1996,Philadelphia,PA,US,corporate,doctorate,customer referrals
+1033,Borg Fleischer,925-314-0083,bfleischerw@umn.edu,Male,6/9/1984,Hayward,CA,US,partners,master's degree,word of mouth
+1034,Terri Longmire,831-730-2456,tlongmirex@shinystat.com,Female,8/13/1977,Santa Cruz,CA,US,government,master's degree,customer referrals
+1035,Karmen Hassett,337-859-2505,khassetty@indiatimes.com,Female,1/31/1987,Lake Charles,LA,US,wholesale,some college,social marketing
+1036,Ann-marie Lettington,510-476-3791,alettingtonz@canalblog.com,Female,2/25/2008,Irvine,CA,US,government,doctorate,customer referrals
+1037,Eleen McGing,612-568-3388,emcging10@comcast.net,Female,10/9/1978,Minneapolis,MN,US,individual,high school,word of mouth
+1038,Fania Fritz,251-856-9172,ffritz11@wired.com,Female,5/21/1980,Mobile,AL,US,wholesale,high school,customer referrals
+1039,Claudie Macoun,512-121-1203,cmacoun12@va.gov,Female,9/18/1985,Austin,TX,US,corporate,some college,customer referrals
+1040,Lin Iskower,503-573-5594,liskower13@163.com,Female,6/10/1980,Beaverton,OR,US,retail,high school,social marketing
+1041,Gualterio Giacaponi,213-961-3636,ggiacaponi14@engadget.com,Male,10/18/2002,Van Nuys,CA,US,corporate,master's degree,word of mouth
+1042,Rebecca Fairest,706-294-8937,rfairest15@springer.com,Female,11/20/1983,Columbus,GA,US,government,some college,word of mouth
+1043,Helaine Dryburgh,612-923-3907,hdryburgh16@china.com.cn,Female,8/3/1994,Minneapolis,MN,US,wholesale,doctorate,word of mouth
+1044,Si Dellatorre,408-783-4324,sdellatorre17@squidoo.com,Male,10/16/2007,San Jose,CA,US,government,master's degree,affiliate marketing
+1045,Saxon Fearick,816-419-0597,sfearick18@hhs.gov,Male,10/15/1987,Lees Summit,MO,US,government,some college,word of mouth
+1046,Audi Paraman,818-161-3050,aparaman19@networksolutions.com,Female,9/5/1995,Glendale,CA,US,corporate,high school,affiliate marketing
+1047,Doralynn Kayzer,304-184-4486,dkayzer1a@smugmug.com,Female,11/28/1986,Charleston,WV,US,corporate,high school,customer referrals
+1048,Keith Pentony,602-317-6244,kpentony1b@is.gd,Male,11/2/1976,Phoenix,AZ,US,individual,doctorate,customer referrals
+1049,Jack Gilliard,940-475-1063,jgilliard1c@arizona.edu,Male,8/2/1978,Denton,TX,US,corporate,bachelor's degree,social marketing
+1050,Angelico Vedekhin,361-317-2169,avedekhin1d@about.me,Male,4/12/2001,Corpus Christi,TX,US,retail,doctorate,social marketing
+1051,Adolpho Fonzone,720-792-6482,afonzone1e@squidoo.com,Male,1/30/1987,Denver,CO,US,corporate,doctorate,affiliate marketing
+1052,Lyell Kuban,217-552-5872,lkuban1f@cnn.com,Male,6/18/1982,Springfield,IL,US,individual,high school,word of mouth
+1053,Janina Ferry,918-962-1053,jferry1g@parallels.com,Female,1/9/1994,Tulsa,OK,US,retail,some college,social marketing
+1054,Dedra O'Donnell,806-765-9785,dodonnell1h@lycos.com,Female,8/5/1970,Lubbock,TX,US,corporate,other,affiliate marketing
+1055,Othello Glass,609-192-2868,oglass1i@godaddy.com,Male,5/28/2000,Trenton,NJ,US,partners,bachelor's degree,customer referrals
+1056,Enos Picford,713-353-6781,epicford1j@alexa.com,Genderqueer,5/26/1981,Houston,TX,US,corporate,doctorate,affiliate marketing
+1057,Leonora Madsen,562-274-9790,lmadsen1k@virginia.edu,Female,4/3/2010,Los Angeles,CA,US,corporate,bachelor's degree,customer referrals
+1058,Georgeta Le Floch,559-678-1496,gle1l@patch.com,Female,1/20/2005,Fullerton,CA,US,retail,master's degree,affiliate marketing
+1059,Glennis McTrustram,520-486-0487,gmctrustram1m@mac.com,Female,4/20/1982,Tucson,AZ,US,individual,other,word of mouth
+1060,Percival Skipper,316-356-2255,pskipper1n@purevolume.com,Male,7/11/1974,Wichita,KS,US,retail,other,customer referrals
+1061,Dame Walley,202-984-2659,dwalley1o@tinypic.com,Male,3/11/2010,Washington,DC,US,partners,some college,customer referrals
+1062,Carlyle Woolrich,303-243-6029,cwoolrich1p@loc.gov,Male,12/4/2004,Denver,CO,US,corporate,high school,social marketing
+1063,Sherie Chellam,806-153-3361,schellam1q@qq.com,Female,2/11/2004,Lubbock,TX,US,partners,bachelor's degree,social marketing
+1064,Ruddie Cluet,916-616-9193,rcluet1r@joomla.org,Male,9/27/1999,Sacramento,CA,US,government,high school,word of mouth
+1065,Dion Mottershaw,334-411-0016,dmottershaw1s@patch.com,Male,6/22/2000,Montgomery,AL,US,partners,some college,affiliate marketing
+1066,Audra Reisen,919-128-8178,areisen1t@intel.com,Female,11/8/2002,Durham,NC,US,partners,master's degree,customer referrals
+1067,Wernher Tschirasche,217-220-2268,wtschirasche1u@issuu.com,Male,7/17/1996,Champaign,IL,US,government,other,word of mouth
+1068,William Jerdon,515-791-4506,wjerdon1v@fc2.com,Male,2/8/2009,Des Moines,IA,US,government,master's degree,customer referrals
+1069,Tadd Girard,954-200-1602,tgirard1w@goo.gl,Male,9/1/1998,Fort Lauderdale,FL,US,wholesale,master's degree,affiliate marketing
+1070,Lev Grishechkin,509-192-7493,lgrishechkin1x@purevolume.com,Male,9/28/2000,Spokane,WA,US,partners,high school,customer referrals
+1071,Casandra Rew,717-466-1691,crew1y@businessweek.com,Female,7/1/1997,York,PA,US,wholesale,master's degree,word of mouth
+1072,Antone Slocomb,806-851-6818,aslocomb1z@archive.org,Male,9/18/2002,Amarillo,TX,US,individual,doctorate,social marketing
+1073,Martie Feehely,720-940-2321,mfeehely20@ed.gov,Female,12/5/2007,Aurora,CO,US,government,doctorate,social marketing
+1074,Miller Segoe,907-526-0134,msegoe21@unesco.org,Male,5/28/1981,Anchorage,AK,US,corporate,doctorate,word of mouth
+1075,Niel Reckless,360-206-1647,nreckless22@nsw.gov.au,Male,7/19/1987,Olympia,WA,US,partners,bachelor's degree,customer referrals
+1076,Ervin McLagan,256-896-4301,emclagan23@nba.com,Male,3/25/1994,Gadsden,AL,US,partners,bachelor's degree,affiliate marketing
+1077,Dewitt Purton,909-832-0561,dpurton24@ted.com,Male,4/19/1977,San Bernardino,CA,US,individual,other,affiliate marketing
+1078,Jillane Besson,407-859-5898,jbesson25@home.pl,Female,2/7/1997,Orlando,FL,US,corporate,doctorate,affiliate marketing
+1079,Zondra Noor,617-157-8913,znoor26@flickr.com,Female,3/19/1985,Boston,MA,US,individual,high school,customer referrals
+1080,Leshia Pidgeley,504-946-3156,lpidgeley27@qq.com,Female,8/16/1997,Metairie,LA,US,corporate,some college,social marketing
+1081,Terri Boij,214-846-4749,tboij28@hc360.com,Female,6/27/1999,Dallas,TX,US,individual,other,social marketing
+1082,Flinn Deering,760-444-6906,fdeering29@networksolutions.com,Genderqueer,6/19/1984,Orange,CA,US,government,high school,customer referrals
+1083,Monika Coniam,716-303-6194,mconiam2a@icq.com,Female,11/5/2001,Buffalo,NY,US,wholesale,master's degree,word of mouth
+1084,Hurley Hollington,228-258-0357,hhollington2b@reddit.com,Male,10/12/1996,Biloxi,MS,US,government,master's degree,social marketing
+1085,Boothe Bader,816-250-2149,bbader2c@discuz.net,Male,9/18/2001,Kansas City,MO,US,partners,master's degree,affiliate marketing
+1086,Myer Peltzer,405-100-3951,mpeltzer2d@wordpress.org,Male,5/6/2009,Oklahoma City,OK,US,government,high school,affiliate marketing
+1087,Maynard Spillman,816-595-5933,mspillman2e@apache.org,Male,6/28/1992,Kansas City,MO,US,partners,bachelor's degree,affiliate marketing
+1088,Manya Persence,704-665-8885,mpersence2f@apache.org,Female,3/18/1985,Charlotte,NC,US,retail,bachelor's degree,affiliate marketing
+1089,Kakalina Pringer,309-492-5998,kpringer2g@sphinn.com,Genderfluid,8/28/1992,Peoria,IL,US,wholesale,bachelor's degree,social marketing
+1090,Ashton Lawlan,915-991-3284,alawlan2h@wikimedia.org,Male,1/9/1988,El Paso,TX,US,individual,other,social marketing
+1091,Dwight Battista,210-802-4353,dbattista2i@dailymotion.com,Male,10/16/1974,San Antonio,TX,US,corporate,high school,word of mouth
+1092,Aidan Slinn,915-706-8875,aslinn2j@chicagotribune.com,Female,7/29/2007,El Paso,TX,US,individual,some college,customer referrals
+1093,Jase Normanvell,540-936-4484,jnormanvell2k@disqus.com,Polygender,11/3/1994,Charlottesville,VA,US,corporate,bachelor's degree,word of mouth
+1094,Cullen Nenci,561-196-1154,cnenci2l@drupal.org,Male,7/16/2002,Boca Raton,FL,US,government,doctorate,affiliate marketing
+1095,Sybila Keates,913-407-9972,skeates2m@bizjournals.com,Female,9/13/1992,Shawnee Mission,KS,US,partners,doctorate,social marketing
+1096,Thatcher Hellen,808-803-9373,thellen2n@imgur.com,Male,12/25/1982,Honolulu,HI,US,corporate,other,social marketing
+1097,Tony Lebbon,850-389-6907,tlebbon2o@histats.com,Male,12/11/2001,Tallahassee,FL,US,retail,some college,affiliate marketing
+1098,Gypsy Gouley,616-238-9156,ggouley2p@abc.net.au,Female,9/28/1972,Grand Rapids,MI,US,retail,doctorate,affiliate marketing
+1099,Luelle Ferrers,713-306-8727,lferrers2q@aol.com,Female,3/5/1986,Houston,TX,US,retail,bachelor's degree,word of mouth
+1100,Roarke Ceaser,501-978-2224,rceaser2r@bravesites.com,Male,9/7/1970,Hot Springs National Park,AR,US,retail,bachelor's degree,word of mouth

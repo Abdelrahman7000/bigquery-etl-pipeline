@@ -1,0 +1,23 @@
+[2024-06-02T23:21:53.039+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-06-02T23:21:54.222+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: AAAA.task_1 manual__2024-06-02T23:14:27.946746+00:00 [queued]>
+[2024-06-02T23:21:54.445+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: AAAA.task_1 manual__2024-06-02T23:14:27.946746+00:00 [queued]>
+[2024-06-02T23:21:54.501+0000] {taskinstance.py:2306} INFO - Starting attempt 2 of 2
+[2024-06-02T23:21:54.855+0000] {taskinstance.py:2330} INFO - Executing <Task(BashOperator): task_1> on 2024-06-02 23:14:27.946746+00:00
+[2024-06-02T23:21:54.976+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=888) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-06-02T23:21:55.007+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'AAAA', 'task_1', 'manual__2024-06-02T23:14:27.946746+00:00', '--job-id', '4', '--raw', '--subdir', 'DAGS_FOLDER/etl.py', '--cfg-path', '/tmp/tmp_4fdssg2']
+[2024-06-02T23:21:55.069+0000] {standard_task_runner.py:91} INFO - Job 4: Subtask task_1
+[2024-06-02T23:21:55.039+0000] {standard_task_runner.py:63} INFO - Started process 898 to run task
+[2024-06-02T23:21:56.293+0000] {task_command.py:426} INFO - Running <TaskInstance: AAAA.task_1 manual__2024-06-02T23:14:27.946746+00:00 [running]> on host 04e4a1635eef
+[2024-06-02T23:21:59.108+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='AAAA' AIRFLOW_CTX_DAG_ID='AAAA' AIRFLOW_CTX_TASK_ID='task_1' AIRFLOW_CTX_EXECUTION_DATE='2024-06-02T23:14:27.946746+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-06-02T23:14:27.946746+00:00'
+[2024-06-02T23:21:59.146+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2024-06-02T23:21:59.200+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2024-06-02T23:21:59.214+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'echo helll']
+[2024-06-02T23:21:59.506+0000] {subprocess.py:86} INFO - Output:
+[2024-06-02T23:21:59.557+0000] {subprocess.py:93} INFO - helll
+[2024-06-02T23:21:59.586+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2024-06-02T23:21:59.613+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-06-02T23:22:00.466+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=AAAA, task_id=task_1, run_id=manual__2024-06-02T23:14:27.946746+00:00, execution_date=20240602T231427, start_date=20240602T232154, end_date=20240602T232200
+[2024-06-02T23:22:00.950+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-06-02T23:22:01.113+0000] {local_task_job_runner.py:222} INFO - ::endgroup::
