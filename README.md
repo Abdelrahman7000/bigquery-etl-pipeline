@@ -6,6 +6,12 @@ This repository contains a data pipeline scripts that extracts data, and loads i
 
 ![architecture](https://github.com/Abdelrahman7000/bigquery-etl-pipeline/assets/61333407/ff4a62a0-c6eb-495c-a75d-f8c8af4fcd19)
 
+<h3>Script</h3>
+<b>build_db.py</b>: Creates the database for our data, and contains SQL queries to create the tables.
+<b>db_conf.py</b> : Python script for creating the database connection, closing the connection, and executing different queries.
+<b>Extract.py</b> : Python script for extracting the data from the CSV files and loading it into the staging database.
+<b>Transform_and_load.py</b>: Transforms the extracted data, and loads the transformed data into BigQuery.
+
 <h2>Star Schema model</h2>
 
 ![Untitled](https://github.com/Abdelrahman7000/bigquery-etl-pipeline/assets/61333407/e4429944-e251-4cd6-a56a-20ef5091f828)
